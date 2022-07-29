@@ -1,2 +1,1 @@
-# PatternDart
-A standard template for starting projects using Dart.
+A standard template for starting projects using Flutter.
